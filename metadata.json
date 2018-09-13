@@ -14,5 +14,9 @@
 	{
 		"name": "app.js",
 		"fallback": "SKY_PAGES_READY_APP"
+	},
+	{
+		"name": "0.chunk.js",
+		"fallback": "SKY_PAGES_READY_0_CHUNK"
 	}
 ]
