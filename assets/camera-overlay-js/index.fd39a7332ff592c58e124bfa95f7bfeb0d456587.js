@@ -94,5 +94,3 @@ function CameraOverlay(options) {
 
     jwplayer(this.player.id).remove();
   };
-
-var SKY_PAGES_READY_INDEX_FD39A7332FF592C58E124BFA95F7BFEB0D456587 = true;
